@@ -11,7 +11,9 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  background-color: #111111;
+  color: #222;
+  background: #fff;
+
 }
 
 @media (min-width: 30rem) {
@@ -35,7 +37,7 @@ a:hover, a:focus {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
-  color: #fff;
+  color: #111;
   text-rendering: optimizeLegibility;
   font-family: 'Open Sans', serif;
   line-height: 1.2
@@ -51,8 +53,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2.5rem;
   margin-bottom: 7rem;
-  font-family: 'Cantarell', sans-serif;
-  font-weight: 400;
+  font-weight: 500;
+  letter-spacing: 0.1px;
 
   margin-left: -2rem;
   margin-right: -2rem;
@@ -74,7 +76,7 @@ h2 {
   font-size: 1.75rem;
   font-weight: 500;
   margin-bottom: 5rem;
-  color: #fff;
+  color: #555;
   text-align: right;
   margin-right: -4rem;
 }
@@ -110,10 +112,6 @@ h4, h5, h6 {
 p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;
   margin-bottom: 1.5rem;
-}
-
-p {
-  color: rgba(255, 255, 255, 0.8);
 }
 
 ul, ol {

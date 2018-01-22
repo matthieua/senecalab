@@ -12,6 +12,8 @@ html {
 body {
   margin: 2rem 0 5rem;
   color: #222;
+  background: #fff;
+
 }
 
 @media (min-width: 30rem) {
@@ -51,8 +53,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2.5rem;
   margin-bottom: 7rem;
-  font-weight: 700;
-  font-family: 'Rock Salt', cursive;
+  font-weight: 500;
+  letter-spacing: 0.1px;
 
   margin-left: -2rem;
   margin-right: -2rem;
