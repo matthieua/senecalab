@@ -6,4 +6,4 @@ layout: default
 
 ### Want to work with us?
 
-Are you working on something great? We'd love to help make it happen. Get in touch now
+Are you working on something great? We'd love to help make it happen. Get in touch now 👉 [matt@senecalab.com](matt@senecalab.com)

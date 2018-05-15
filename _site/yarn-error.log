@@ -1,14 +1,14 @@
 Arguments: 
-  /usr/local/Homebrew/Cellar/node/9.4.0/bin/node /usr/local/homebrew/bin/yarn upgrade
+  /usr/local/Homebrew/Cellar/node/9.9.0/bin/node /usr/local/homebrew/bin/yarn upgrade
 
 PATH: 
   /usr/local/var/rbenv/shims:/usr/local/heroku/bin:~/bin:~/.bin:/usr/local/homebrew/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/git/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/npm/bin:/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Users/matt/bin:/usr/local/mysql/bin:/Users/matt/bin:/Users/matt/.bin:/usr/local/homebrew/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/git/bin:/Users/matt/bin:/Users/matt/.bin:/usr/local/homebrew/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/git/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin/usr/local/heroku/bin:/Users/matt/.rbenv/bin
 
 Yarn version: 
-  1.4.0
+  1.5.1
 
 Node version: 
-  9.4.0
+  9.9.0
 
 Platform: 
   darwin x64
@@ -32,5 +32,5 @@ Lockfile:
 Trace: 
   Error: No lockfile in this directory. Run `yarn install` to generate one.
       at new MessageError (/usr/local/homebrew/lib/node_modules/yarn/lib/cli.js:186:110)
-      at /usr/local/homebrew/lib/node_modules/yarn/lib/cli.js:88864:13
+      at /usr/local/homebrew/lib/node_modules/yarn/lib/cli.js:89389:13
       at <anonymous>
