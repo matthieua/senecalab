@@ -212,6 +212,9 @@ strong {
 	color: #ffffff;
 	padding: 250px 0;
 }
+.hero-section .inner>.row {
+	margin: 0;
+}
 
 @media (max-width: 1180px) {
 	.hero-section .inner {
